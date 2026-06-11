@@ -82,6 +82,7 @@ button {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-top: 1.2rem;
 }
 
 #tempValue {
